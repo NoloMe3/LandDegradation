@@ -1,0 +1,6 @@
+Data/
+LandDegradation/Output/
+LandDegradation/_uploads/
+LandDegradation/__pycache__/
+LandDegradation/*.log
+*.pyc
